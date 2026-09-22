@@ -1,0 +1,10 @@
+#变量定义：指定类型注解--->知识提示，不会限制传参s
+a2:int=596
+score:float=98.5
+hobby2:str="python"
+flag2=bool=True
+pic2:None=None
+name:list[str]=["A","B","C","D","E","F","G","H","I","J"]
+phone:set[str]={"23231","231112","2313"}
+option:dict[str,int]={"count":2,"total":10}
+goods:tuple[str,int,int]=("手机",6999,1)
