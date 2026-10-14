@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "record_date": "2026-10-10",
+  "captured_at": "2026-10-10T13:50:00.8423300+08:00",
+  "timezone": "Asia/Shanghai",
+  "excluded_directories": [
+    "mappo-reproduction",
+    ".git",
+    ".idea",
+    ".venv*",
+    "venv",
+    "env",
+    "node_modules",
+    "__pycache__",
+    ".agents",
+    ".codex",
+    ".aws",
+    "学习记录"
+  ],
+  "included_extensions": [
+    ".py",
+    ".ipynb",
+    ".md",
+    ".txt",
+    ".csv",
+    ".tsv",
+    ".json",
+    ".toml",
+    ".yaml",
+    ".yml",
+    ".ini",
+    ".cfg",
+    ".sql",
+    ".xlsx",
+    ".xls",
+    ".parquet"
+  ],
+  "notebook_learning_content": "SHA256 of compact JSON [{cell_type, source}], source CRLF normalized to LF; outputs, execution counts and metadata omitted",
+  "comparison_limit": "Hashes identify changed files, not line-level differences or the date on which learning occurred.",
+  "files": [
+    {
+      "path": "第二章/01.字面量与变量.py",
+      "sha256": "01ab15bc0b23ebaa9e8ee5e800aff3ade8d61e66a8efc2d264b172cd7f5e29dd",
+      "size_bytes": 819,
+      "modified_at": "2026-06-08T02:57:02.0000000Z"
+    },
+    {
+      "path": "第二章/02.常见数据类型.py",
+      "sha256": "cf88869deb7898fb8285c1eb168557df84cb4850b77d6016b8ceb61043963789",
+      "size_bytes": 1934,
+      "modified_at": "2026-06-09T05:34:12.0000000Z"
+    },
+    {
+      "path": "第二章/03.输入与输出.py",
+      "sha256": "09bcb41c8fe8c3e3d281f8acffdbf0e3b02d0e9ac8eeabe87e367d67e3f2a870",
+      "size_bytes": 589,
+      "modified_at": "2026-06-09T05:34:12.0000000Z"
+    },
+    {
+      "path": "第二章/04.运算符.py",
+      "sha256": "9f2ff235fce89b3eed3056acc2baaa64771a5ea125ed96424e8e6650643693c2",
+      "size_bytes": 2364,
+      "modified_at": "2026-06-09T07:11:28.0000000Z"
+    },
+    {
+      "path": "第二章/05.if条件判断.py",
+      "sha256": "cc10d88d7ef48b6a17e182ef534cdd6ad62901246dd570e31fb9117b7c1c68f8",
+      "size_bytes": 2951,
+      "modified_at": "2026-06-09T08:17:12.0000000Z"
+    },
+    {
+      "path": "第二章/06.match模式匹配.py",
+      "sha256": "1a783e912096ad04184e12fc5dbb77dd0d688c6b485cc033e6191475783effdf",
+      "size_bytes": 1639,
+      "modified_at": "2026-06-11T01:41:34.0000000Z"
+    },
+    {
+      "path": "第二章/07.while循环.py",
+      "sha256": "5a63130a76c1a4ffe13d592d93ec93a51375d8ebae287070cdfb8a881e73e81a",
+      "size_bytes": 293,
+      "modified_at": "2026-06-11T01:58:50.0000000Z"
+    },
+    {
+      "path": "第二章/08.for循环.py",
+      "sha256": "80b7cf6ed3f07ad4184bb1654b96678202bad58682e4dc4bab2520d973d82f65",
+      "size_bytes": 832,
+      "modified_at": "2026-06-11T02:23:54.0000000Z"
+    },
+    {
+      "path": "第二章/09.嵌套循环.py",
+      "sha256": "736428e5de0d0d9e42958dffb90bce11554887691a91f242a14347e8cc5721c7",
+      "size_bytes": 667,
+      "modified_at": "2026-06-11T02:52:02.0000000Z"
+    },
+    {
+      "path": "第二章/10.循环总案例.py",
+      "sha256": "9caa241a8eeefad729db75f6eb4f80bdfbb4a3c83ff2d21a96d3950fd1e63507",
+      "size_bytes": 1886,
+      "modified_at": "2026-06-11T03:25:48.0000000Z"
+    },
+    {
+      "path": "第二章/11.数据容器-list.py",
+      "sha256": "ae1c1c2441c3cbde75160e6a18b9db2aff3fd728b36ef9952d2c80dc1b02e272",
+      "size_bytes": 3761,
+      "modified_at": "2026-06-11T07:52:48.0000000Z"
+    },
+    {
+      "path": "第二章/12.数据容器-str.py",
+      "sha256": "f6fded7b40b09c5ca70602b722f76f0b92e39e7da2f1855682d8dfd5eb694a07",
+      "size_bytes": 2684,
+      "modified_at": "2026-06-11T09:22:18.0000000Z"
+    },
+    {
+      "path": "第二章/13.数据容器-tuple.py",
+      "sha256": "d4d3804d89c8fcedf69b46bfc29d7c8bfa8ed0fec36c96d0ef5671820bdcd280",
+      "size_bytes": 3386,
+      "modified_at": "2026-06-11T12:48:18.0000000Z"
+    },
+    {
+      "path": "第二章/14.数据容器-set.py",
+      "sha256": "2a6371042cc6cda75b2e75f97bd09ac239e61d18c152e028a0dcaecc4aa37b12",
+      "size_bytes": 3186,
+      "modified_at": "2026-06-12T03:24:00.0000000Z"
+    },
+    {
+      "path": "第二章/15.数据容器-dict.py",
+      "sha256": "870ef7d05e3bd9f2b376e44217a809768840daa2d506d2d811c02f0465f6926c",
+      "size_bytes": 4902,
+      "modified_at": "2026-06-12T08:20:00.0000000Z"
+    },
+    {
+      "path": "第二章/16.数据容器-总体例子.py",
+      "sha256": "104b737c15422f30f25113a3924bf05e755cc04957bf87086073317f85b05ba1",
+      "size_bytes": 11943,
+      "modified_at": "2026-06-12T11:25:52.0000000Z"
+    },
+    {
+      "path": "第六章/01.Jupter演示.ipynb",
+      "sha256": "e834bfcd07adae32d27902ef2bb50ada6baab2886856c48560823f8a8880c1aa",
+      "size_bytes": 2396,
+      "modified_at": "2026-09-16T09:06:16.2424568Z",
+      "learning_content_sha256": "d6aa4a9bee9b960cc010b3086bfa663efa89bfd84590f1b17503653cbfbd93d5",
+      "code_cells": 5
+    },
+    {
+      "path": "第六章/02.Pandas入门.ipynb",
+      "sha256": "03935c2872a9adb7c292513bac8fc55d23a2606ef5229f24808146725c8c9383",
+      "size_bytes": 2338,
+      "modified_at": "2026-09-30T00:23:32.6668927Z",
+      "learning_content_sha256": "3d7664e412c10c44157057bdfcb270a75711bb0a6a3ee1302adb9179c45f3390",
+      "code_cells": 1
+    },
+    {
+      "path": "第六章/03.Pandas-DataFrame与Series.ipynb",
+      "sha256": "ea04a5990998b8c0c0962712d36f2d0773d92c66d72585ad3b59b5a9b548c058",
+      "size_bytes": 3209,
+      "modified_at": "2026-09-30T06:24:39.5975136Z",
+      "learning_content_sha256": "90706e80885401c9efa7464572e354669268cede05b836bff17682ca2cd569a6",
+      "code_cells": 2
+    },
+    {
+      "path": "第六章/04.Pandas-数据读取与写入.ipynb",
+      "sha256": "9a41728e5d6cc1c2215cac15e41569ec9f1eefe18f7b1325e69997ef11c4aa04",
+      "size_bytes": 10172,
+      "modified_at": "2026-10-09T01:36:41.3093092Z",
+      "learning_content_sha256": "05b79ad7440e0b16a80ae62a132a43c63e004b420534479893a95000026be95e",
+      "code_cells": 2
+    },
+    {
+      "path": "第六章/05.Pandas-数据清洗.ipynb",
+      "sha256": "7f9e020bef2eaeb9a3fd9b9039c734b14f53b49f00375d6488ed9a7930415f19",
+      "size_bytes": 1299,
+      "modified_at": "2026-10-09T04:35:08.8261514Z",
+      "learning_content_sha256": "03dc7c42ce578f6651ff2dfc7967759850b1406c0822529f665a911e66dcfdd4",
+      "code_cells": 1
+    },
+    {
+      "path": "第六章/data/movies.csv",
+      "sha256": "4b100092d1b74f988d3a6a48b0a173276d385bd046adf759779bbe6387072494",
+      "size_bytes": 31737,
+      "modified_at": "2026-09-30T06:48:50.3144100Z"
+    },
+    {
+      "path": "第六章/data/sales_01.csv",
+      "sha256": "802e867f2062519c5862a4006213d9a3c7b0e57a78792f0d0a9a1dc54867d93c",
+      "size_bytes": 40441,
+      "modified_at": "2026-10-09T01:36:08.8606789Z"
+    },
+    {
+      "path": "第六章/data/sales.csv",
+      "sha256": "fe3ebf417b5af05e0bcc59832ddb3c6166ce93fbac1b9be920b636e7fe4240a3",
+      "size_bytes": 80401,
+      "modified_at": "2026-10-09T02:05:12.3130796Z"
+    },
+    {
+      "path": "第三章/1.函数基础.py",
+      "sha256": "fdba0a336cacb4b3f12d6756117ff67d09a466eb71d7f9985a24868c2ce0404c",
+      "size_bytes": 4191,
+      "modified_at": "2026-06-13T01:06:46.0000000Z"
+    },
+    {
+      "path": "第三章/2.函数进阶.py",
+      "sha256": "f9ad4e3261716bf50906cb5524b3e80d46941cc153921da86c37097483eaaf07",
+      "size_bytes": 1394,
+      "modified_at": "2026-06-13T01:54:56.0000000Z"
+    },
+    {
+      "path": "第三章/3.函数进阶.py",
+      "sha256": "183b96b2ef53b7b78aa0c3ebe83e7d75cc77a1dbd379bb14632e3c522779b252",
+      "size_bytes": 1448,
+      "modified_at": "2026-06-13T03:02:56.0000000Z"
+    },
+    {
+      "path": "第三章/4.函数进阶2.py",
+      "sha256": "1b109a5f06d61d9c8cbe929d20c149002381c037342a9dd1a641247481536da2",
+      "size_bytes": 350,
+      "modified_at": "2026-06-13T03:13:48.0000000Z"
+    },
+    {
+      "path": "第三章/5.匿名函数.py",
+      "sha256": "e6a50e20b9476d4f5a1b918b477783aa53ff98ec440d2912a42d19aa72129927",
+      "size_bytes": 467,
+      "modified_at": "2026-06-13T03:35:32.0000000Z"
+    },
+    {
+      "path": "第三章/6.函数总结案例1.py",
+      "sha256": "4a85cb289425ec2bec05e3e3c28d4d1a419cdba9ab80a2a4512cb8083481cf27",
+      "size_bytes": 193,
+      "modified_at": "2026-06-13T07:11:50.0000000Z"
+    },
+    {
+      "path": "第三章/7.函数总结案例2.py",
+      "sha256": "622abe353455208d5dfd7d60656e95a48c56ee0b6cba810adc661fcd62465f0d",
+      "size_bytes": 1861,
+      "modified_at": "2026-06-13T07:47:32.0000000Z"
+    },
+    {
+      "path": "第三章/8.类型注解.py",
+      "sha256": "a3811f7c53b13101fc98063be984572910b25368470ce76c402213cd92817b4c",
+      "size_bytes": 345,
+      "modified_at": "2026-06-13T08:28:02.0000000Z"
+    },
+    {
+      "path": "第三章/9.包.py",
+      "sha256": "2084ccc5a283b5a667b327ba92a611e2a52fdbac40240eb56a51567889863cf0",
+      "size_bytes": 357,
+      "modified_at": "2026-06-14T08:26:26.0000000Z"
+    },
+    {
+      "path": "第三章/abc/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_bytes": 0,
+      "modified_at": "2026-06-14T08:18:00.0000000Z"
+    },
+    {
+      "path": "第三章/module01/01.导入模块.py",
+      "sha256": "95e3544164fce60f3bbe8c6b0bad30251f2eea435460939502697330b1f0a7f2",
+      "size_bytes": 563,
+      "modified_at": "2026-06-14T03:25:52.0000000Z"
+    },
+    {
+      "path": "第三章/module02/main.py",
+      "sha256": "03745f00a2ef6e632470f49a20a86ed4b0e836444407d73b60c0164b184c412e",
+      "size_bytes": 477,
+      "modified_at": "2026-06-14T08:09:40.0000000Z"
+    },
+    {
+      "path": "第三章/module02/my_fun.py",
+      "sha256": "140ce0bb5e3cb6f9ed40dd7f49d2a1b0d676ec1047ab18477ed05eced935e21a",
+      "size_bytes": 801,
+      "modified_at": "2026-06-14T08:07:04.0000000Z"
+    },
+    {
+      "path": "第三章/utils/__init__.py",
+      "sha256": "573bd2f662d6178efa21fe5824fea3299dfb26e3c08034086c4e133804eaaeb4",
+      "size_bytes": 102,
+      "modified_at": "2026-06-14T08:24:56.0000000Z"
+    },
+    {
+      "path": "第三章/utils/my_fun.py",
+      "sha256": "80d6f5141753b90304ab824930dc33ad8ec3860c58d72a6084bd2a42ad4be8d3",
+      "size_bytes": 274,
+      "modified_at": "2026-06-14T08:19:26.0000000Z"
+    },
+    {
+      "path": "第三章/utils/my_var.py",
+      "sha256": "80d6f5141753b90304ab824930dc33ad8ec3860c58d72a6084bd2a42ad4be8d3",
+      "size_bytes": 274,
+      "modified_at": "2026-06-14T08:26:12.0000000Z"
+    },
+    {
+      "path": "第四章/1.面向对象基础.py",
+      "sha256": "2bb855ebf9bab1758be7abd9fd47a514dc107acffb2231cc2a492900da500a4d",
+      "size_bytes": 5429,
+      "modified_at": "2026-06-14T12:50:32.0000000Z"
+    },
+    {
+      "path": "第四章/2.面向对象基础实例.py",
+      "sha256": "03f714ab671759b32a1574d7851cad9c40c107307ddc7d6c9b96bf5ccc4750e9",
+      "size_bytes": 5868,
+      "modified_at": "2026-06-24T07:01:16.0000000Z"
+    },
+    {
+      "path": "第四章/3.面向对象基础作业.py",
+      "sha256": "1507a3627e4180e81d0bbcf6f1b8c3df9fb73589aa6f29ddcda939a71d168293",
+      "size_bytes": 4970,
+      "modified_at": "2026-06-24T09:33:44.0000000Z"
+    },
+    {
+      "path": "第四章/4.异常处理.py",
+      "sha256": "3e257463d8d6903959dfbef3d5d6d29474b52df8af2b2df5b9fb8ba14717c7be",
+      "size_bytes": 1242,
+      "modified_at": "2026-06-24T09:21:40.0000000Z"
+    },
+    {
+      "path": "第五章/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+      "sha256": "f638a680e7a0ace93e8309f55e846c1f0dbf60b3cffccbbec3e9bbf15f20f6a9",
+      "size_bytes": 2893,
+      "modified_at": "2026-09-16T08:03:19.2740909Z",
+      "learning_content_sha256": "0f01be9b31ecbbcd9c90e11d47dfd9e799a9b8e64976d191e228c48cfc1e37c1",
+      "code_cells": 8
+    },
+    {
+      "path": "第五章/01.Deepseek调用测试.py",
+      "sha256": "56ead1c8974e51a6bb71d6b9806fce475b07952dfb6248b77c455eccae9a15d5",
+      "size_bytes": 880,
+      "modified_at": "2026-06-26T02:53:00.0000000Z"
+    },
+    {
+      "path": "第五章/02.streamlit的入门.py",
+      "sha256": "bd17e49886434f14c6b794c1e134e9a27aec296f72ac24f6819550b7224d2131",
+      "size_bytes": 2559,
+      "modified_at": "2026-06-27T01:48:34.0000000Z"
+    },
+    {
+      "path": "第五章/03.ai_partner.py",
+      "sha256": "226d62b978f657ee3c4f4307de0862cf1c52022f9df339de50bad7037f37c1d3",
+      "size_bytes": 20738,
+      "modified_at": "2026-08-09T12:50:28.0000000Z"
+    },
+    {
+      "path": "第五章/04.文件操作入门.py",
+      "sha256": "faa9c327231179804f8f35c4795c789dc3c49a0f199c9cdfa7ae99b4656c3e1b",
+      "size_bytes": 924,
+      "modified_at": "2026-06-28T08:04:42.0000000Z"
+    },
+    {
+      "path": "第五章/05.jason模块入门.py",
+      "sha256": "7b7a8e343a5fb1bab92ff4a508a9722c697ec5d50e436c0e1d4597e4018e2186",
+      "size_bytes": 650,
+      "modified_at": "2026-06-28T08:45:14.0000000Z"
+    },
+    {
+      "path": "第五章/resources/静夜思.txt",
+      "sha256": "9d68fef608c1ae6010cfc3ddd7fb2429e60a861bab8c6453874c2adb16d0bdef",
+      "size_bytes": 60,
+      "modified_at": "2026-06-28T07:10:06.0000000Z"
+    },
+    {
+      "path": "第五章/resources/望庐山瀑布.txt",
+      "sha256": "5bd75514861fee28843190eeffa24fc125e871824cb11ef096adf50e3464fe4f",
+      "size_bytes": 133,
+      "modified_at": "2026-06-28T03:17:42.0000000Z"
+    },
+    {
+      "path": "第五章/resources/user.json",
+      "sha256": "eb42b1be841027cb1d2c756f0ec6a1535319dae6e37e84fce75d50aa4d5afe78",
+      "size_bytes": 127,
+      "modified_at": "2026-06-28T08:45:14.0000000Z"
+    },
+    {
+      "path": "第五章/sessions/姐姐_2026-08-09 21-03-52.json",
+      "sha256": "5feb9a5b8458f95463a4b2a8eafc67c5f59d7484c9c8903d445c94a61b801dc5",
+      "size_bytes": 1932,
+      "modified_at": "2026-08-09T13:05:16.0000000Z"
+    },
+    {
+      "path": "第五章/sessions/木木_2026-08-09 21-01-51.json",
+      "sha256": "60470de23001c3913d16d460718d105dbacbe04a477e4e33d1da09e99bf30857",
+      "size_bytes": 2700,
+      "modified_at": "2026-09-15T14:26:19.4917918Z"
+    },
+    {
+      "path": "第五章/sessions/女明星_2026-06-28 21-27-09.json",
+      "sha256": "bae1a4b047cd0c8495c1f5ef0ff8f810945e4a68e28c4b5d94d932feef274736",
+      "size_bytes": 1082,
+      "modified_at": "2026-08-08T11:33:36.0000000Z"
+    },
+    {
+      "path": "第五章/sessions/祁煜_2026-06-28 20-54-15.json",
+      "sha256": "73b74172c3e71da5e9d16e7313ad91dd0d0c028fb71c3508d6f65ace3ed9dad9",
+      "size_bytes": 4902,
+      "modified_at": "2026-06-28T15:20:58.0000000Z"
+    },
+    {
+      "path": "第五章/sessions/秦彻_2026-06-28 20-55-14.json",
+      "sha256": "6ac5972fda43ff6b6b9f9e3dbf74692ade957ab265445952f664e6ab916e04a3",
+      "size_bytes": 5595,
+      "modified_at": "2026-06-28T15:24:12.0000000Z"
+    },
+    {
+      "path": "第五章/sessions/沈星回_2026-06-28 20-50-53.json",
+      "sha256": "7c2301fc5a2daa3278a5f357a052f43249a375d46374f89068439d3f0c4dfae1",
+      "size_bytes": 6859,
+      "modified_at": "2026-06-28T15:22:56.0000000Z"
+    },
+    {
+      "path": "第五章/sessions/夏以昼_2026-08-09 21-00-38.json",
+      "sha256": "3b378881bf2a89326847b433515051eb5a24828418449bae4e418e886669e3b0",
+      "size_bytes": 3613,
+      "modified_at": "2026-09-15T14:24:16.7347109Z"
+    },
+    {
+      "path": "第五章/Untitled.ipynb",
+      "sha256": "f638a680e7a0ace93e8309f55e846c1f0dbf60b3cffccbbec3e9bbf15f20f6a9",
+      "size_bytes": 2893,
+      "modified_at": "2026-09-16T08:03:19.2740909Z",
+      "learning_content_sha256": "0f01be9b31ecbbcd9c90e11d47dfd9e799a9b8e64976d191e228c48cfc1e37c1",
+      "code_cells": 8
+    },
+    {
+      "path": "第一章/01.入门程序.py",
+      "sha256": "e273c6c207afa9d06c460557c06c9191aa765fcefdd8a94f40274dac8c06f86c",
+      "size_bytes": 260,
+      "modified_at": "2026-06-07T12:32:42.0000000Z"
+    },
+    {
+      "path": "第一章/8.1.py",
+      "sha256": "1b3e72de1516a0a7267ffba45b3c4b8090924357874fffd5c712d6f3bfd4603f",
+      "size_bytes": 156,
+      "modified_at": "2026-06-07T12:46:26.0000000Z"
+    },
+    {
+      "path": "旧环境3.14已装包清单.txt",
+      "sha256": "ef48c40d8b6832e24c8e6fffbc2032c12835f7e1afc5e227eddbd2b6a6ddd8db",
+      "size_bytes": 956,
+      "modified_at": "2026-09-15T13:57:54.5792787Z"
+    },
+    {
+      "path": "杂物/5.1.py",
+      "sha256": "cb03fe919a5d64749edd6e82a35b81fd82b3eac9bbe96e6d2c067422b5fd24e6",
+      "size_bytes": 274,
+      "modified_at": "2026-05-20T08:53:36.0000000Z"
+    },
+    {
+      "path": "杂物/exam1.py",
+      "sha256": "edc28e0be56b69e20a472ed351077858700e63a1938135e4e43ba4e84727d31a",
+      "size_bytes": 523,
+      "modified_at": "2026-05-20T09:16:56.0000000Z"
+    },
+    {
+      "path": "杂物/hello.py",
+      "sha256": "13addf681ce9ffa5b30edb2a9959ebf3d5d6c1c61e363a6b5d4246f590d22a0e",
+      "size_bytes": 114,
+      "modified_at": "2026-06-07T03:12:20.0000000Z"
+    },
+    {
+      "path": "main.py",
+      "sha256": "b7f97e8abf7d0d0c30058002e3245003355f18183b841bf0e1602dea239f86ea",
+      "size_bytes": 544,
+      "modified_at": "2026-06-28T04:50:20.0000000Z"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "30baae74b8747471f7cd5bbddc3b3df3ab43b891f25054d27abc703a95ba8a36",
+      "size_bytes": 455,
+      "modified_at": "2026-09-15T13:56:38.2804667Z"
+    },
+    {
+      "path": "package.json",
+      "sha256": "93c9f177290937e9c2fbdf1088d129ff601488883a0eb634c2e8c14b4c48e47c",
+      "size_bytes": 55,
+      "modified_at": "2026-09-15T13:56:38.2789766Z"
+    },
+    {
+      "path": "README.md",
+      "sha256": "284048566b5a5ad5147e863294a15a96d940596f49af901605d9d0a73a18d580",
+      "size_bytes": 604,
+      "modified_at": "2026-09-22T07:33:36.8953327Z"
+    },
+    {
+      "path": "streamlit_check.py",
+      "sha256": "e427b157f2571361c3ab24a41fa8e6cfb15b7c5f947fc978dde2269e580a7c6d",
+      "size_bytes": 918,
+      "modified_at": "2026-09-15T14:18:16.5094256Z"
+    }
+  ]
+}
