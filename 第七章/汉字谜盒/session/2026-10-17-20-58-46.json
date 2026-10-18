@@ -1,0 +1,37 @@
+{
+  "session_id": "2026-10-17-20-58-46",
+  "messages": [
+    {
+      "role": "user",
+      "content": "？"
+    },
+    {
+      "role": "assistant",
+      "content": "你好呀，欢迎来猜字谜！先来热身一题：\n“一口咬掉牛尾巴”（打一字）。"
+    },
+    {
+      "role": "user",
+      "content": "不知道"
+    },
+    {
+      "role": "assistant",
+      "content": "好嘞，揭晓谜底：“告”！答案就是“告”字。要不要再来一题？"
+    },
+    {
+      "role": "user",
+      "content": "好的"
+    },
+    {
+      "role": "assistant",
+      "content": "第二题：\n“门里有口”（打一字）。"
+    },
+    {
+      "role": "user",
+      "content": "问"
+    },
+    {
+      "role": "assistant",
+      "content": "太棒了！就是“问”字！要不要再来一题？"
+    }
+  ]
+}

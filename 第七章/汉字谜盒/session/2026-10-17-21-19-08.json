@@ -1,0 +1,21 @@
+{
+  "session_id": "2026-10-17-21-19-08",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！来玩个字谜吧：“一口咬掉牛尾巴”（打一字）。"
+    },
+    {
+      "role": "user",
+      "content": "你是谁？"
+    },
+    {
+      "role": "assistant",
+      "content": "我是字谜小助手，只陪您猜字谜哦。刚才那题的答案想好了吗？"
+    }
+  ]
+}
